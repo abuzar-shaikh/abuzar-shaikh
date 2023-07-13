@@ -20,7 +20,12 @@
            <p>🙋‍♂️ About Me </p>
               <p>🌱 I’m currently learning Full-Stack web development.</p>
               <p>📫 Reach me at <b>abuzarsk10@gmail.com</b></p>
-              <p>My Portfolio: https://github.com/abuzar-shaikh</p>      
+              <p> 👨‍💻All of my projects are available at  <a href="https://github.com/abuzar-shaikh" target="blank">
+                 Portfolio
+              </a> </p>  
+               <p> 📄 My resume   <a href="https://github.com/abuzar-shaikh" target="blank">
+        link
+              </a> </p>  
       <!-- new file -->
       <br/>
       ## 👨‍💻 TECH STACK :
