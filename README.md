@@ -19,7 +19,6 @@
          <img width="100%" height="200px" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snek">
            <p>🙋‍♂️ About Me </p>
               <p>🌱 I’m currently learning Full-Stack web development.</p>
-              <p>💬 Ask me about : HTML,CSS,JavaScript,React, Redux, NodeJS,mongoDB,ExpressJS.</p>
               <p>📫 Reach me at <b>abuzarsk10@gmail.com</b></p>
               <p>My Portfolio: https://github.com/abuzar-shaikh</p>      
       <!-- new file -->
