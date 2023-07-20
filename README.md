@@ -15,8 +15,7 @@
           <img src="https://img.shields.io/badge/Node-node-green" />
           <img src="https://img.shields.io/badge/express-Express-blueviolet" />
           <img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen" />
-        </p>
-         <img width="100%" height="200px" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snek">
+      </p>
            <p>🙋‍♂️ About Me </p>
               <p>🌱 I’m currently learning Full-Stack web development.</p>
               <p>📫 Reach me at <b>abuzarsk10@gmail.com</b></p>
