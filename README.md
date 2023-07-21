@@ -19,7 +19,7 @@
            <p>🙋‍♂️ About Me </p>
               <p>🌱 I’m currently learning Full-Stack web development.</p>
               <p>📫 Reach me at <b>abuzarsk10@gmail.com</b></p>
-              <p> 👨‍💻All of my projects are available at  <a href="https://github.com/abuzar-shaikh" target="blank">
+              <p> 👨‍💻All of my projects are available at  <a href="https://abuzar-shaikh.github.io/" target="blank">
                  Portfolio
               </a> </p>  
                <p> 📄 My resume   <a href="https://drive.google.com/file/d/1_kWLohE7-0vnNHUJlcVwZxVj3kbvtWch/view" target="blank">
