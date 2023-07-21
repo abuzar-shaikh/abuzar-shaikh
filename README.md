@@ -22,7 +22,7 @@
               <p> 👨‍💻All of my projects are available at  <a href="https://github.com/abuzar-shaikh" target="blank">
                  Portfolio
               </a> </p>  
-               <p> 📄 My resume   <a href="https://github.com/abuzar-shaikh" target="blank">
+               <p> 📄 My resume   <a href="https://drive.google.com/file/d/1_kWLohE7-0vnNHUJlcVwZxVj3kbvtWch/view" target="blank">
         link
               </a> </p>  
       <!-- new file -->
